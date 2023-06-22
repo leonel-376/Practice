@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(10, 186, 7);
+}
+.container{
+    background-color: aliceblue;
+    width: 100 px;
+    height: 350 px;
+    padding: 10%;
+    margin: auto;
+}
+.content-container {
+    width:fit-content;
+    margin: auto;
+
+}
+.input-forms{
+    display: block;
+    margin: 10 px;
+    width: 100%;
+
+}
+body h1{
+    font-family: Arial, sans-serif;
+    margin:0%;
+    padding:0%;
+}
